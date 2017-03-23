@@ -1,0 +1,26 @@
+body{
+	background-color: #A9F5F2;
+	
+	
+	
+}
+
+*{
+	font-family: Arial;
+}
+
+.btn{
+	border: 2px solid #FFFFFF;
+	border-radius: 2px;
+	width: 50%;
+	height: 10%;
+	background-color: #819FF7;	
+}
+
+.mundo {
+margin: 5%;
+width: 40%;
+height:25%;
+	
+	
+}
